@@ -8,6 +8,7 @@ namespace Ch01
     {
         static void Main(string[] args)
         {
+            // test
         }
     }
 }
